@@ -46,7 +46,7 @@ Siga os passos abaixo para configurar e rodar o projeto em sua máquina local:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/evelynnnie/Digital-Store_Projeto-FrontEnd.git](https://github.com/evelynnnie/Digital-Store_Projeto-FrontEnd.git)
+    git clone https://github.com/evelynnnie/Digital-Store_Projeto-FrontEnd.git
     ```
     *Este comando irá criar uma pasta chamada `Digital-Store_Projeto-FrontEnd` no seu diretório atual.*
 
